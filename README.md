@@ -1,49 +1,50 @@
-<h1 align="center">Adeeksha Nethapul</h1>
-<h3 align="center">Full-Stack Engineer & System Architect</h3>
+<h1 align="center">Hi, I'm Adeeksha 👋</h1>
+<h3 align="center">Software Engineer • Full-Stack Developer • Digital Designer</h3>
 
 <p align="center">
-  <a href="https://adeeksha.info" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-adeeksha.info-0366d6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Website" />
-  </a>
+  📍 Ajman, UAE &nbsp;&nbsp; | &nbsp;&nbsp; 🔗 <a href="https://adeeksha.info" target="_blank">adeeksha.info</a>
 </p>
 
 ---
 
-### About Me
+### 👨‍💻 About Me
 
-I am a postgraduate candidate and Full-Stack Engineer based in Ajman, UAE, specializing in scalable web applications, robust database architecture, and seamless digital ecosystems. I also operate **Dexora Creative**, bridging the gap between technical product engineering and highly polished UI/UX design.
-
-* **Engineering Focus:** Architecting end-to-end platforms, from complex PostgreSQL and MongoDB database schemas to responsive frontend applications.
-* **Infrastructure & Tooling:** Proficient in server management, local network deployments, and optimizing development workflows.
-* **Hardware Integration:** Experienced in blending physical hardware with digital software, such as smart relay lighting controls for physical environments.
-
----
-
-### Technical Arsenal
-
-**Languages & Core Technologies** <br>
-<img src="https://skillicons.dev/icons?i=java,cpp,php,css" alt="Core Languages" />
-
-**Frontend Development** <br>
-<img src="https://skillicons.dev/icons?i=react,vue,tailwind" alt="Frontend Frameworks" />
-
-**Backend & Databases** <br>
-<img src="https://skillicons.dev/icons?i=nodejs,postgres,mongodb,prisma" alt="Backend and Databases" />
+* 🚀 **Building scalable, high-performance web applications** and seamless digital experiences.
+* 💻 **Full-Stack Engineer** with hands-on experience bridging the gap between robust backends and highly polished frontends.
+* ⚙️ **Actively working on custom platforms** — from real-time GPS tracking systems to comprehensive POS networks and NFC-based student management (SimplyTap).
+* 💡 **Passionate about digital branding, UI/UX, and product-driven engineering** (operating Dexora Creative).
+* 🌱 **Exploring physical-to-digital integrations**, including smart relay lighting controls and automated hardware setups for gaming/café environments.
+* 📦 **Experienced in end-to-end delivery:** architecture → database design → development → production release.
 
 ---
 
-### Featured Architecture & Projects
+### 🛠️ Tech Stack
 
-* **SimplyTap (NFC Platform):** Engineered a comprehensive student management and attendance platform utilizing NFC workflows. Built with a Node.js/Express backend, Prisma ORM, and PostgreSQL.
-* **Unified POS Ecosystem:** Developed a 3-in-1 point-of-sale system for gaming stations, billiards, and café ordering, integrating custom backend APIs with automated physical hardware triggers.
-* **Live GPS Tracking:** Architected a real-time delivery rider tracking system integrating Leaflet maps with Firebase data synchronization for driver and administrative portals.
-* **Brand Identity Systems:** Delivered complete visual identities, 3D conceptual designs, and responsive web layouts for external clients and internal agencies.
+**Languages**
+<br>
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+**Frontend**
+<br>
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Backend & Databases**
+<br>
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
 ---
 
-### GitHub Analytics
+### 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nethapul&show_icons=true&theme=transparent&hide_border=true&title_color=0366d6&icon_color=0366d6&text_color=777777&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nethapul&theme=transparent&hide_border=true&title_color=0366d6&icon_color=0366d6&text_color=777777&ring=0366d6&fire=0366d6&currStreakNum=777777" width="48%" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nethapul&show_icons=true&theme=radium&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nethapul&theme=radium&hide_border=true" width="48%" alt="GitHub Streak" />
+</p>
