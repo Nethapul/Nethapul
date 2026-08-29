@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Adeeksha 👋</h1>
+<h1 align="center">Hi, I'm Adeeksha Nethapul 👋</h1>
 <h3 align="center">Software Engineer • Full-Stack Developer • Digital Designer</h3>
 
 <p align="center">
@@ -40,11 +40,5 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
----
 
-### 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nethapul&show_icons=true&theme=radium&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nethapul&theme=radium&hide_border=true" width="48%" alt="GitHub Streak" />
-</p>
