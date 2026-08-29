@@ -1,16 +1,47 @@
-## Hi there 👋
+<h1 align="center">👋 Hi, I'm Adeeksha</h1>
+<h3 align="center">Full-Stack Web Developer • Digital Designer • System Architect</h3>
 
-<!--
-**Nethapul/Nethapul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://adeeksha.info" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-adeeksha.info-00599C?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Website" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+
+* 🚀 **Building scalable, high-performance web applications** and seamless digital experiences.
+* 💻 **Full-Stack Engineer & Designer** with hands-on experience bridging the gap between robust backends and highly polished frontends.
+* ⚙️ **Actively building custom platforms** — from real-time GPS tracking systems and NFC-based student management software (SimplyTap) to comprehensive POS networks.
+* 🌱 **Exploring physical-to-digital integrations**, including smart relay lighting controls and automated hardware setups for gaming and café environments.
+* 💡 **Passionate about digital branding and UI/UX**, blending creative agency expertise (via Dexora Creative) with technical product-driven engineering.
+* 📦 **Experienced in end-to-end delivery:** from designing initial 3D visual concepts and database schemas to deploying fully responsive frontend layouts. 
+* 📫 **How to reach me:** You can view my work and contact me directly through my website at **[adeeksha.info](https://adeeksha.info)**.
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+**Frontend**
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Backend & Databases**
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+
+---
+
+<p align="center">
+  <i>Turning creative concepts into functional realities, one line of code at a time! 🚀</i>
+</p>
