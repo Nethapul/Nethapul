@@ -1,5 +1,12 @@
-<h1 align="center">👋 Hi, I'm Adeeksha</h1>
-<h3 align="center">Full-Stack Web Developer • Digital Designer • System Architect</h3>
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" /> Hi, I'm Adeeksha
+</h1>
+
+<p align="center">
+  <a href="https://adeeksha.info">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00599C&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Digital+Designer;System+Architect;Turning+Concepts+Into+Reality" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://adeeksha.info" target="_blank">
@@ -11,37 +18,26 @@
 
 ### 👨‍💻 About Me
 
-* 🚀 **Building scalable, high-performance web applications** and seamless digital experiences.
-* 💻 **Full-Stack Engineer & Designer** with hands-on experience bridging the gap between robust backends and highly polished frontends.
-* ⚙️ **Actively building custom platforms** — from real-time GPS tracking systems and NFC-based student management software (SimplyTap) to comprehensive POS networks.
-* 🌱 **Exploring physical-to-digital integrations**, including smart relay lighting controls and automated hardware setups for gaming and café environments.
-* 💡 **Passionate about digital branding and UI/UX**, blending creative agency expertise (via Dexora Creative) with technical product-driven engineering.
-* 📦 **Experienced in end-to-end delivery:** from designing initial 3D visual concepts and database schemas to deploying fully responsive frontend layouts. 
-* 📫 **How to reach me:** You can view my work and contact me directly through my website at **[adeeksha.info](https://adeeksha.info)**.
+* 🚀 **Full-Stack Engineer & Designer** bridging the gap between robust backends and highly polished user interfaces.
+* ⚙️ **Current Projects:** Building real-time GPS trackers, NFC-based student management systems (*SimplyTap*), and comprehensive POS networks.
+* 🌱 **Exploring:** Physical-to-digital integrations, such as smart relay lighting controls and automated hardware setups for gaming/café environments.
+* 💡 **Creative & Technical:** Combining UI/UX and branding expertise (via *Dexora Creative*) with product-driven database architecture.
+* 📫 **Get in Touch:** Check out my work and contact me directly at **[adeeksha.info](https://adeeksha.info)**.
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Languages**
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-**Frontend**
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-**Backend & Databases**
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,vue,nodejs,postgres,mongodb,prisma,java,cpp,php,css,tailwind&perline=6" alt="Tech Stack Icons" />
+  </a>
+</p>
 
 ---
 
+### 📊 GitHub Activity
+
 <p align="center">
-  <i>Turning creative concepts into functional realities, one line of code at a time! 🚀</i>
+  <img src="https://github-readme-stats.vercel.app/api?username=Nethapul&show_icons=true&theme=transparent&hide_border=true&title_color=00599C&text_color=ffffff&icon_color=00599C&bg_color=00000000" alt="GitHub Stats" />
 </p>
