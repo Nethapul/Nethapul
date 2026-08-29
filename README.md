@@ -10,9 +10,9 @@
 
 ---
 
-<div align="center">
-  <h2>👨‍💻 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&color=FF3B30&pause=10000&vCenter=true&lines=The+Architect+Behind+The+Code" alt="About Me Header" /></h2>
-</div>
+<h3 align="center">
+  👨‍💻 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&color=FF3B30&pause=10000&lines=The+Architect+Behind+The+Code" alt="About Me Header" />
+</h3>
 
 I am a postgraduate candidate and full-stack engineer based in Ajman, UAE, specializing in bridging the gap between high-performance backends and meticulously designed user interfaces. Operating from my Mac Mini M2 workstation, I build and deploy complete digital ecosystems. 
 
@@ -23,9 +23,9 @@ I am a postgraduate candidate and full-stack engineer based in Ajman, UAE, speci
 
 ---
 
-<div align="center">
-  <h2>🛠️ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&color=FFCC00&pause=10000&vCenter=true&lines=Core+Technologies+And+Stack" alt="Tech Stack Header" /></h2>
-</div>
+<h3 align="center">
+  🛠️ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&color=FFCC00&pause=10000&lines=Core+Technologies+and+Stack" alt="Tech Stack Header" />
+</h3>
 
 <p align="center">
   <a href="https://adeeksha.info">
@@ -35,9 +35,9 @@ I am a postgraduate candidate and full-stack engineer based in Ajman, UAE, speci
 
 ---
 
-<div align="center">
-  <h2>📦 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&color=FF3B30&pause=10000&vCenter=true&lines=Featured+Engineering+Projects" alt="Projects Header" /></h2>
-</div>
+<h3 align="center">
+  📦 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&color=FF3B30&pause=10000&lines=Featured+Engineering+Projects" alt="Projects Header" />
+</h3>
 
 <details>
   <summary><b>✨ Click here to expand my project highlights!</b></summary>
@@ -52,12 +52,12 @@ I am a postgraduate candidate and full-stack engineer based in Ajman, UAE, speci
 
 ---
 
-<div align="center">
-  <h2>📈 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&color=FFCC00&pause=10000&vCenter=true&lines=Real-Time+GitHub+Activity" alt="Stats Header" /></h2>
-</div>
+<h3 align="center">
+  📈 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&color=FFCC00&pause=10000&lines=Real-Time+GitHub+Activity" alt="Stats Header" />
+</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nethapul&show_icons=true&theme=transparent&hide_border=true&title_color=FF3B30&text_color=a3a3a3&icon_color=FFCC00&bg_color=00000000&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nethapul&show_icons=true&theme=transparent&hide_border=true&title_color=FF3B30&text_color=a3a3a3&icon_color=FFCC00&bg_color=00000000&include_all_commits=true" width="48%" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nethapul&theme=transparent&hide_border=true&title_color=FF3B30&text_color=a3a3a3&icon_color=FFCC00&sideNums=FFCC00&sideLabels=FF3B30&ring=FFCC00&fire=FF3B30&currStreakNum=ffffff" width="48%" alt="GitHub Streak" />
 </div>
 
