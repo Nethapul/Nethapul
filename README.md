@@ -11,7 +11,7 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&color=FF3B30&pause=10000&lines=👨‍💻+The+Architect+Behind+The+Code" alt="About Me Header" />
+  <h2>👨‍💻 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&color=FF3B30&pause=10000&vCenter=true&lines=The+Architect+Behind+The+Code" alt="About Me Header" /></h2>
 </div>
 
 I am a postgraduate candidate and full-stack engineer based in Ajman, UAE, specializing in bridging the gap between high-performance backends and meticulously designed user interfaces. Operating from my Mac Mini M2 workstation, I build and deploy complete digital ecosystems. 
@@ -24,7 +24,7 @@ I am a postgraduate candidate and full-stack engineer based in Ajman, UAE, speci
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&color=FFCC00&pause=10000&lines=🛠️+Core+Technologies+&+Stack" alt="Tech Stack Header" />
+  <h2>🛠️ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&color=FFCC00&pause=10000&vCenter=true&lines=Core+Technologies+And+Stack" alt="Tech Stack Header" /></h2>
 </div>
 
 <p align="center">
@@ -36,7 +36,7 @@ I am a postgraduate candidate and full-stack engineer based in Ajman, UAE, speci
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&color=FF3B30&pause=10000&lines=📦+Featured+Engineering+Projects" alt="Projects Header" />
+  <h2>📦 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&color=FF3B30&pause=10000&vCenter=true&lines=Featured+Engineering+Projects" alt="Projects Header" /></h2>
 </div>
 
 <details>
@@ -53,7 +53,7 @@ I am a postgraduate candidate and full-stack engineer based in Ajman, UAE, speci
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&color=FFCC00&pause=10000&lines=📈+Real-Time+GitHub+Activity" alt="Stats Header" />
+  <h2>📈 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&color=FFCC00&pause=10000&vCenter=true&lines=Real-Time+GitHub+Activity" alt="Stats Header" /></h2>
 </div>
 
 <div align="center">
