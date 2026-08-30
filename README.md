@@ -11,8 +11,8 @@
 
 * 🚀 **Building scalable, high-performance web applications** and seamless digital experiences.
 * 💻 **Full-Stack Engineer** with hands-on experience bridging the gap between robust backends and highly polished frontends.
-* ⚙️ **Actively working on custom platforms** — from real-time GPS tracking systems to comprehensive POS networks and NFC-based student management (SimplyTap).
-* 💡 **Passionate about digital branding, UI/UX, and product-driven engineering** (operating Dexora Creative).
+* ⚙️ **Actively working on custom platforms** — from real-time GPS tracking systems to comprehensive POS networks and NFC-based student management 
+* 💡 **Passionate about digital branding, UI/UX, and product-driven engineering** 
 * 🌱 **Exploring physical-to-digital integrations**, including smart relay lighting controls and automated hardware setups for gaming/café environments.
 * 📦 **Experienced in end-to-end delivery:** architecture → database design → development → production release.
 
