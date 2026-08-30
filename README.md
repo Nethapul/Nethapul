@@ -1,4 +1,10 @@
+<h2 align="center">Hi 👋, I'm Adeeksha</h2>
+<h4 align="center">Full-Stack Engineer | Digital Designer | Postgraduate Candidate based in Ajman, UAE</h4>
+
+
 <img src="https://scontent.fdxb3-4.fna.fbcdn.net/v/t39.30808-6/784693920_122125212411390333_7768942706810660976_n.jpg?stp=dst-jpg_tt6&cstp=mx2048x758&ctp=p720x720&_nc_cat=108&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=l5dw4oXvhZAQ7kNvwEGrzsE&_nc_oc=AdqKfYMGckOfxiW9HTZVUBzQ9LO70jhijN9hKDZ5vfrnJ0A3V3yDYNicVrgle2r5qVXZL2W7BOnmMelYA06zaibp&_nc_zt=23&_nc_ht=scontent.fdxb3-4.fna&_nc_gid=9xbjPScIN54ujcny1dpbAw&_nc_ss=7b2a8&oh=00_AQKiz2sjMdH86WQBpwa7Md6u_ZpifUEG_yLI27QU7LyEQQ&oe=6A99461C" alt="Adeeksha Banner" width="100%" />
+
+
 
 
 ## 💫 About Me
