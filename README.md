@@ -1,3 +1,6 @@
+<img src="https://scontent.fdxb3-4.fna.fbcdn.net/v/t39.30808-6/784693920_122125212411390333_7768942706810660976_n.jpg?stp=dst-jpg_tt6&cstp=mx2048x758&ctp=p720x720&_nc_cat=108&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=l5dw4oXvhZAQ7kNvwEGrzsE&_nc_oc=AdqKfYMGckOfxiW9HTZVUBzQ9LO70jhijN9hKDZ5vfrnJ0A3V3yDYNicVrgle2r5qVXZL2W7BOnmMelYA06zaibp&_nc_zt=23&_nc_ht=scontent.fdxb3-4.fna&_nc_gid=9xbjPScIN54ujcny1dpbAw&_nc_ss=7b2a8&oh=00_AQKiz2sjMdH86WQBpwa7Md6u_ZpifUEG_yLI27QU7LyEQQ&oe=6A99461C" alt="Adeeksha Banner" width="100%" />
+
+
 ## 💫 About Me
 
 - 🔭 I'm currently building scalable web applications, real-time GPS tracking systems, and NFC platforms (SimplyTap)
@@ -14,10 +17,9 @@
 
 ## 🌐 Socials
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/NethapulAdeekshaya)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Nethapul)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Nethapul)
-[![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@AdeekshayaNethapul)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]([https://facebook.com/NethapulAdeekshaya](https://www.facebook.com/nethapul.adeeksha))
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]([https://instagram.com/Nethapul](https://www.instagram.com/_adeeksha_/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Nethapul](https://www.linkedin.com/in/adeeksha/))
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adeekshanethapul111@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=firefox&logoColor=FF7139)](https://adeeksha.info)
 
@@ -60,9 +62,7 @@
 ![](https://streak-stats.demolab.com/?user=Nethapul&theme=dark&hide_border=false)
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Nethapul&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=Nethapul&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
@@ -72,4 +72,3 @@
 
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Nethapul)
 
-<sub>Proudly created with <a href="https://gprm.itsvg.in">GPRM</a></sub>
