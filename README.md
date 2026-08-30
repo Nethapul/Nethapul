@@ -57,9 +57,9 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nethapul&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&title_color=ff0000&icon_color=ff0000" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nethapul&theme=dark&hide_border=true&title_color=ff0000&icon_color=ff0000&ring=ff0000&fire=ff0000" width="48%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nethapul&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&title_color=ff0000&icon_color=ff0000&v=1" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nethapul&theme=dark&hide_border=true&title_color=ff0000&icon_color=ff0000&ring=ff0000&fire=ff0000&v=1" width="48%" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nethapul&layout=compact&theme=dark&hide_border=true&title_color=ff0000&langs_count=6" width="60%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nethapul&layout=compact&theme=dark&hide_border=true&title_color=ff0000&langs_count=6&v=1" width="60%" alt="Top Languages" />
 </p>
