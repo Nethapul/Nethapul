@@ -57,12 +57,9 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Nethapul&theme=radium&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Nethapul&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=151515" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nethapul&hide_border=true&title_color=ff0000&sideLabels=ffffff&sideNums=ffffff&text_color=ffffff&icon_color=ff0000&ring=ff0000&fire=ff0000&currStreakNum=ffffff&bg_color=151515" width="48%" alt="GitHub Streak" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nethapul&show_icons=true&theme=radium&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nethapul&theme=radium&hide_border=true" width="48%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nethapul&layout=compact&hide_border=true&title_color=ff0000&text_color=ffffff&bg_color=151515&langs_count=6" width="60%" alt="Top Languages" />
 </p>
